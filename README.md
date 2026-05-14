@@ -1,6 +1,6 @@
 # curltime
 
-![curltime](rect.png)
+![curltime](curltime.png)
 
 A little wrapper around `curl` that tells you where the time actually went —
 DNS, TCP, TLS, server, transfer — instead of just spitting out one total
